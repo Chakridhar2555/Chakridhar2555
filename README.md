@@ -1,87 +1,94 @@
-<h1 align="center" style="font-size: 3em; color: #2c3e50;">👋 Welcome to My Profile!</h1>
-<h2 align="center" style="font-size: 2em; color: #34495e;">N. Chakridhar</h2>
-<h3 align="center" style="color: #2980b9;">Software Developer | AI Enthusiast | Creative Innovator</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chakridhar2555&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<div align="center">
-  <h3 style="color: #27ae60;">Technologies I Work With</h3>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="30" height="30" alt="Flutter" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" alt="CSS3" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30" alt="React" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" alt="Java" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30" height="30" alt="C#" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" height="30" alt="PHP" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" height="30" alt="MongoDB" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="30" height="30" alt="Dart" />
-  </p>
-</div>
-
-### About Me
-I am a passionate software developer currently pursuing a Bachelor of Architecture and a B.Tech in Computer Science. My journey is fueled by a desire to blend architecture with cutting-edge technology, creating innovative solutions that enhance the user experience.
-
-- 🔭 **Current Projects**: Exploring AI applications and developing dynamic web solutions.
-- 👯 **Collaboration Interests**: Eager to connect on AI & ML projects.
-- 🌟 **Design Philosophy**: Combining aesthetics with functionality for optimal user engagement.
-
-### Connect with Me
-<div align="center">
-  <a href="mailto:nissankararaochakridhar2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nissankararaochakridhar2003@gmail.com-blue?style=flat&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/n-chakridhar">
-    <img src="https://img.shields.io/badge/LinkedIn-N%20Chakridhar-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/chakrinaidu___">
-    <img src="https://img.shields.io/badge/Instagram-chakrinaidu___-blue?style=flat&logo=instagram" alt="Instagram" />
-  </a>
-  <a href="https://chakridhar.teamapartx.com/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=flat&logo=web" alt="Portfolio" />
-  </a>
-</div>
-
-### Skills
-- **Languages**: 
-  - ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python
-  - ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
-  - ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) Java
-  - ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) C#
-  - ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML5
-  - ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS3
-  - ![Dart](https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg) Dart
-  - ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) PHP
-
-- **Frameworks**: 
-  - ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) React
-  - ![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg) Flutter
-
-- **Databases**: 
-  - ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) MySQL
-  - ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) MongoDB
-
-- **Tools**: 
-  - Git
-  - Firebase
-  - Figma
-  - Photoshop
-
-### GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chakridhar2555&show_icons=true&theme=radical" alt="My GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakridhar2555&theme=radical" alt="Top Languages" />
-</div>
-
-### Contributions
-![GitHub Commit Activity](https://github.com/chakridhar2555/github-stats/blob/master/generated/overview.svg)
-![GitHub Contributions](https://github.com/chakridhar2555/github-stats/blob/master/generated/languages.svg)
+<h1 align="center">Hi 👋, I'm N. Chakridhar</h1>
+<h2 align="center">Software Developer | AI Enthusiast | Creative Innovator</h2>
 
 ---
 
-### Thank you for visiting my profile! Let's connect and collaborate on exciting projects together! 🚀
+### 🌟 Work
+🔭 I’m currently working on [Urban Edge CRM Solutions](https://github.com/Chakridhar2555/Urban-Edge-app-code.git)
+
+👯 I’m looking to collaborate on [ERPNext](https://github.com/frappe/erpnext.git)
+
+🤝 I’m looking for help with **project name**  
+🌱 I’m currently learning **Data Science**
+
+💬 Ask me about **Mobile & Web Applications**  
+
+📫 How to reach me: [nissankararaochakridhar@gmail.com](mailto:nissankararaochakridhar@gmail.com)
+
+👨‍💻 All of my projects are available at [My Portfolio](https://chakridhar.teamapartx.com/)
+
+📝 I regularly write articles on **[My Blog](blog link)**
+
+📄 Know about my experiences: [My Resume](https://chakridhar.teamapartx.com/assets/img/Resume-N-CHAKRIDHAR%20(1).pdf)
+
+⚡ Fun fact: I think I am funny!
+
+---
+
+### 💻 Skills
+
+**Programming Languages:**
+- ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) C
+- ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) C++
+- ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) C#
+- ![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg) Go
+- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) Java
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
+- ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) TypeScript
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python
+- ![Swift](https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg) Swift
+
+**Frontend Development:**
+- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) React
+- ![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg) Vue.js
+- ![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg) Angular
+- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS3
+- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML5
+
+**Backend Development:**
+- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) Node.js
+- ![Spring](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg) Spring
+- ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg) Express
+
+**Mobile App Development:**
+- ![Flutter](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg) Flutter
+- ![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg) Android
+
+**AI/ML:**
+- ![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) TensorFlow
+- ![PyTorch](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg) PyTorch
+
+**Database:**
+- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) MongoDB
+- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) MySQL
+- ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) PostgreSQL
+
+**DevOps:**
+- ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg) Docker
+- ![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonaws/amazonaws-original.svg) AWS
+
+---
+
+### 🌐 Social Media
+- [GitHub](https://github.com/chakridhar2555)
+- [LinkedIn](https://www.linkedin.com/in/n-chakridhar-624792232/)
+- [Twitter](twitter username)
+- [Dev.to](dev.to username)
+- [Stack Overflow](stackoverflow user ID)
+- [Instagram](https://instagram.com/chakrinaidu___)
+
+---
+
+### 📈 GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=chakridhar2555&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chakridhar2555&theme=radical)
+
+---
+
+### 🙌 Support
+If you'd like to support my work:
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow?style=flat&logo=ko-fi)](https://github.com/chakridhar2555)
+
+---
+
+### 🎉 Thank you for visiting my profile! Let's connect and collaborate on exciting projects together! 🚀
