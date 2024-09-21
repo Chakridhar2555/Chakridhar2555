@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm N. Chakridhar</h1>
+<h2 align="center">Software Developer | AI Enthusiast | Creative Innovator</h2>
+
+---
+
 # 💫 About Me:
 🔭 I’m currently working on Urban Edge Crm Solutions<br>👯 I’m looking to collaborate on erpnext<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Mobile & Web Application<br>
 
